@@ -21,6 +21,7 @@ public class Principal {
 		String nome = oi.nextLine();
 		System.out.printf("Teste");
 		System.out.printf("Olá %s!\n", nome);
+		System.out.printf("Exemplo de comentário");
 	}
 
 }
