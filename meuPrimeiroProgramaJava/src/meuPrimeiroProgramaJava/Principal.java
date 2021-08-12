@@ -23,7 +23,8 @@ public class Principal {
 		String nome = oi.nextLine();
 		System.out.printf("Teste");
 		System.out.printf("Olá %s!\n", nome);
-		System.out.printf("Exemplo de merge errado");
+		
+		System.out.printf("Exemplo de merge");
 	}
 
 }
