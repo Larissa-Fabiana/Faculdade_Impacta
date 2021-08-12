@@ -14,9 +14,12 @@ public class Principal {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Olá!\nQual é o seu nome?"); 
+		System.out.println("Olá!\nQual é o seu nome?");
+		System.out.println("Olá!\nQual é o seu nome?");
+		
 		// TODO Auto-generated method stub
 		// exemplo de comentario
+		
 		System.out.println("Olá amigo!\nQual é o seu nome?");
 		
 		Scanner oi = new Scanner(System.in);
