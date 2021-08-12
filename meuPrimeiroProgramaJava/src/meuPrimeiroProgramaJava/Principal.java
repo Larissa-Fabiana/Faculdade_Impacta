@@ -15,7 +15,7 @@ public class Principal {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Olá ssssss!\nQual é o seu nome?"); 
-		// exemplo de comentario.
+		// exemplo de comentario
 		// Inseri um comentário.
 		// Eu inseri um outro comentário		
 		System.out.println("Olá amigo!\n Qual é o seu nome?");
