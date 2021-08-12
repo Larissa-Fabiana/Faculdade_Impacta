@@ -17,10 +17,7 @@ public class Principal {
 		System.out.println("Olá ssssss!\nQual é o seu nome?"); 
 		// exemplo de comentario
 		// Inseri um comentário
-		// Eu inseri um outro comentário
-		// Novo coments
-		// Mais um
-		
+		// Eu inseri um outro comentário		
 		System.out.println("Olá amigo!\nQual é o seu nome?");
 		
 		Scanner oi = new Scanner(System.in);
