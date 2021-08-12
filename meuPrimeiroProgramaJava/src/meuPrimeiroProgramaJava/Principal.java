@@ -18,6 +18,9 @@ public class Principal {
 		// exemplo de comentario
 		System.out.println("Olá amigo!\nQual é o seu nome?");
 		Scanner oi = new Scanner(System.in);
+		
+		String endereco = oi.nextLine();
+		
 		String nome = oi.nextLine();
 		System.out.printf("Teste");
 		System.out.printf("Olá %s!\n", nome);
