@@ -18,6 +18,7 @@ public class Principal {
 		// exemplo de comentario
 		// Inseri um comentário
 		// Eu inseri um outro comentário
+		// Novo coments
 		System.out.println("Olá amigo!\nQual é o seu nome?");
 		
 		Scanner oi = new Scanner(System.in);
