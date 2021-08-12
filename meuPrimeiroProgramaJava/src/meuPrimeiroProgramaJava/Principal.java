@@ -16,11 +16,11 @@ public class Principal {
 	public static void main(String[] args) {
 		System.out.println("Olá ssssss!\nQual é o seu nome?"); 
 		// exemplo de comentario
-		// Inseri um comentário
+		// Inseri um comentário.
 		// Eu inseri um outro comentário		
 		System.out.println("Olá amigo!\nQual é o seu nome?");
-		// Inserindo mudanas.
 		// Mais uma mudanca
+		// Inserindo mudanas.
 		Scanner oi = new Scanner(System.in);
 		String nome = oi.nextLine();
 		System.out.printf("Teste");
