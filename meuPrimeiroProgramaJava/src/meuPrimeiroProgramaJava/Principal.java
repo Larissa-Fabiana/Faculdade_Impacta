@@ -17,10 +17,10 @@ public class Principal {
 		System.out.println("Olá ssssss!\nQual é o seu nome?"); 
 		// exemplo de comentario.
 		// Inseri um comentário.
-		// Eu inseri um outro comentário		
-		System.out.println("Olá amigo!\n Qual é o seu nome?--");
+		// Eu inseri um outro comentário.
+		System.out.println("Olá amigo!\n Qual é o seu nome?");
 		// Mais uma mudanca.
-		// Inserindo mudanas..
+		// Inserindo mudanas.
 		Scanner oi = new Scanner(System.in);
 		String nome = oi.nextLine();
 		System.out.printf("Teste");
