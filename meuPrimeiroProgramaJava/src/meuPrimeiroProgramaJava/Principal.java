@@ -19,7 +19,7 @@ public class Principal {
 		// Inseri um comentário.
 		// Eu inseri um outro comentário.
 		System.out.println("Olá amigo!\n Qual é o seu nome?");
-		// Mais uma mudanca.
+		// Mais uma mudanca..
 		// Inserindo mudanas.
 		Scanner oi = new Scanner(System.in);
 		String nome = oi.nextLine();
