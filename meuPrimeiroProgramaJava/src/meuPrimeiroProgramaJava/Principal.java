@@ -17,6 +17,8 @@ public class Principal {
 		System.out.println("Olá ssssss!\nQual é o seu nome?"); 
 		// TODO Auto-generated method stub
 		// exemplo de comentario
+		// Inseri um comentário
+		System.out.println("Olá amigo!\nQual é o seu nome?");
 		
 		Scanner oi = new Scanner(System.in);
 		String nome = oi.nextLine();
