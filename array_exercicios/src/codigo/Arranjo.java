@@ -1,3 +1,4 @@
+
 /**
  * 
  */
@@ -14,7 +15,7 @@ public class Arranjo {
 	 * @param args
 	 */
 
-	public Object menor(int[] arranjo) {
+	public int menor(int[] arranjo) {
 		int menor = arranjo[0];
 		for (int i = 0; i < arranjo.length; i++) {
 			if(arranjo[i] < menor) {
@@ -24,7 +25,7 @@ public class Arranjo {
 		return menor;
 	}
 
-	public Object maior(int[] arranjo) {
+	public int maior(int[] arranjo) {
 		int maior = arranjo[0];
 		for (int i = 0; i < arranjo.length; i++) {
 			if(arranjo[i] > maior) {
@@ -34,7 +35,7 @@ public class Arranjo {
 		return maior;
 	}
 
-	public Object soma(int[] arranjo) {
+	public int soma(int[] arranjo) {
 		int soma = 0;
 		for (int i = 0; i < arranjo.length; i++) {
 			soma += arranjo[i];
@@ -42,7 +43,7 @@ public class Arranjo {
 		return soma;
 	}
 
-	public Object repeticoes(int[] arranjo, int valor) {
+	public int repeticoes(int[] arranjo, int valor) {
 		int repeticoes = 0;
 		for (int i = 0; i < arranjo.length; i++) {
 			if(arranjo[i] == valor) {

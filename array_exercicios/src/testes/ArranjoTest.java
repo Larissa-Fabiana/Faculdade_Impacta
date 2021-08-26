@@ -1,3 +1,4 @@
+
 /**
  * 
  */
@@ -28,3 +29,4 @@ public class ArranjoTest {
 		assertEquals(2, a.repeticoes(lista, 940), "940 aparece 2 vezes");
 	}
 }
+
